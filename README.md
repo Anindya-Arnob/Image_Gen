@@ -4,12 +4,12 @@
 This repository features an optimized implementation of the FLUX.2-klein-4B model. It combines a high-quality image generation UI with a sophisticated DWT-based watermarking system for digital asset protection.
 
 # ✨ Key Features
-Advanced Image Generation: Powered by black-forest-labs/FLUX.2-klein-4B, utilizing bitsandbytes and attention_slicing to run smoothly on standard T4 GPUs.
-Interactive Arc UI: A built-in interface using ipywidgets allows for real-time prompt engineering and style selection.
-Time-Bound Watermarking: A specialized security feature that embeds a cryptographic "time-stamp" into images.
-DWT Embedding: Uses Discrete Wavelet Transform (Haar) to hide metadata in the frequency domain.
-Cryptographic Verification: Combines a secret key with a UNIX timestamp and SHA-256 hashing for secure detection.
-Style Presets: Toggle between Realistic, 3D Cartoon, Studio Ghibli, Neon Noir, Oil Painting, and Pixel Art.
+1. Advanced Image Generation: Powered by black-forest-labs/FLUX.2-klein-4B, utilizing bitsandbytes and attention_slicing to run smoothly on standard T4 GPUs.
+2. Interactive Arc UI: A built-in interface using ipywidgets allows for real-time prompt engineering and style selection.
+3. Time-Bound Watermarking: A specialized security feature that embeds a cryptographic "time-stamp" into images.
+4. DWT Embedding: Uses Discrete Wavelet Transform (Haar) to hide metadata in the frequency domain.
+5. Cryptographic Verification: Combines a secret key with a UNIX timestamp and SHA-256 hashing for secure detection.
+6. Style Presets: Toggle between Realistic, 3D Cartoon, Studio Ghibli, Neon Noir, Oil Painting, and Pixel Art.
 
 # 🛠️ Installation
 The notebook automates the environment setup, including:
