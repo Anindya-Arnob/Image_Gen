@@ -30,4 +30,4 @@ VRAM Management: The notebook sets PYTORCH_CUDA_ALLOC_CONF to expandable_segment
 Output Dimensions: Default generation is set to 512x1112 for portrait-style results.
 Watermark Sensitivity: The detection threshold is set to 0.08 by default to balance robustness and accuracy.
 
-Disclaimer: This project is for educational/creative purposes. Users are responsible for adhering to the license terms of the FLUX model family.
+Disclaimer: This project is for educational/creative purposes.
