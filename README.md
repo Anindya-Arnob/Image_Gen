@@ -1,5 +1,5 @@
 # Image_Gen
-# Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anindya_Arnob/Image_Gen/blob/main/Img_gen_arc.ipynb)
+# Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anindya-Arnob/Image_Gen/blob/main/Img_gen_arc.ipynb)
 # FLUX.2-Klein Image Generator (Colab Optimized)
 
 An interactive Jupyter Notebook designed to run the **FLUX.2-klein-4B** model by Black Forest Labs. This tool features a built-in UI for easy prompt engineering and style selection, optimized for environments with limited VRAM (like Google Colab T4 GPUs).
