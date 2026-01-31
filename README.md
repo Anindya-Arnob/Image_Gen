@@ -21,7 +21,7 @@ If you don't have a token yet, follow these steps to get one:
 
 Sign Up/In: Visit Hugging Face.(https://huggingface.co/)
 
-Access Settings: Navigate to your Profile Settings and select Access Tokens from the left sidebar.
+Access Settings: Navigate to your Profile Settings and select Access Tokens.
 
 Create Token: Click "New token", set the name to "Colab", and ensure the role is set to Read.
 
