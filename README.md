@@ -19,13 +19,13 @@ Image Processing: opencv-python, pywavelets, numpy.
 # 🔑 Detailed Token Guide
 If you don't have a token yet, follow these steps to get one:
 
-Sign Up/In: Visit Hugging Face.
+Sign Up/In: Visit Hugging Face.(https://huggingface.co/)
 
 Access Settings: Navigate to your Profile Settings and select Access Tokens from the left sidebar.
 
 Create Token: Click "New token", set the name to "Colab", and ensure the role is set to Read.
 
-Accept License: Before the token will work for FLUX.2, ensure you have visited the Model Page (or the specific variant you are using) and clicked "Agree and access repository" to accept their terms of use.
+Accept License: Before the token will work for FLUX.2, ensure you have visited the Model Page(https://huggingface.co/black-forest-labs/FLUX.1-schnell) (or the specific variant you are using) and clicked "Agree and access repository" to accept their terms of use.
 
 # 🚀 Quick Start
 Open in Colab: Click the badge above to launch the environment.
