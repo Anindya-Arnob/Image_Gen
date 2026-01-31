@@ -16,6 +16,17 @@ The notebook automates the environment setup, including:
 Core AI Libraries: diffusers, transformers, accelerate.
 Image Processing: opencv-python, pywavelets, numpy.
 
+# 🔑 Detailed Token Guide
+If you don't have a token yet, follow these steps to get one:
+
+Sign Up/In: Visit Hugging Face.
+
+Access Settings: Navigate to your Profile Settings and select Access Tokens from the left sidebar.
+
+Create Token: Click "New token", set the name to "Colab", and ensure the role is set to Read.
+
+Accept License: Before the token will work for FLUX.2, ensure you have visited the Model Page (or the specific variant you are using) and clicked "Agree and access repository" to accept their terms of use.
+
 # 🚀 Quick Start
 Open in Colab: Click the badge above to launch the environment.
 Authentication: Run the login cell and provide your Hugging Face token.
